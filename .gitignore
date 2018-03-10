@@ -1,0 +1,9 @@
+.DS_Store
+*.class
+*.log
+target/
+.idea/
+docs/
+.dat
+.csv
+
