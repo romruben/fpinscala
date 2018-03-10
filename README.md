@@ -13,7 +13,7 @@
     - week 5 - **forcomp**/
 
 
-#### 2 - Functional Program Design in Scala
+### 2 - Functional Program Design in Scala
 
 - Folder: **progfun2**/
     - week 2 - **streams**/
@@ -21,7 +21,7 @@
     - week 4 - **streams**/
 
 
-#### 3 - Parallel Programming
+### 3 - Parallel Programming
 
 - Folder: **parprog1**/
     - week 1 - **scalashop**/
@@ -29,7 +29,7 @@
     - week 3 - **kmeans**/
     - week 4 - **barneshut**/
 
-#### 4 - Big Data Analysis with Scala and Spark
+### 4 - Big Data Analysis with Scala and Spark
 
 - Folder: **scala-spark-big-data**/
     - week 1 - **wikipedia**/
